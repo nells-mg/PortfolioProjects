@@ -179,7 +179,7 @@ SELECT *
 FROM RowNumCTE2
 WHERE row_num > 1; 
         
--- LOOK UP HOW TO DO THIS - STILL HASN'T WORKED 
+-- LOOK UP HOW TO DO THIS - STILL HASN'T WORKED ON MYSQL WORKBENCH
 -- Removing Duplicates by using CTE
 
 -- WITH RowNumCTE AS (
